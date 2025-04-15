@@ -55,7 +55,8 @@ Merci de lire les fichiers :
 ## Auteurs
 
 O.C
-Modification conflictuelle 
+Je fais une modif différente 
+sur une autre ligne sur GitHub
 
 ## License
 
