@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-Modification distante GitHUb
+Modification distante GitHUb 2
 
 ## License
 
