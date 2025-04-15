@@ -55,7 +55,7 @@ Merci de lire les fichiers :
 ## Auteurs
 
 O.C
-TEST Modification conflictuelle 
+Version locale Git 
 
 ## License
 
