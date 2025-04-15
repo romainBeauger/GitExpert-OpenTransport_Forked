@@ -54,9 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-O.C
-Je fais une modif différente 
-sur une autre ligne sur GitHub
+Modification distante GitHUb
 
 ## License
 
