@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-Modification locale Github
+Modification distante GitHUb
 
 ## License
 
